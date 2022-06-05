@@ -8,4 +8,4 @@
 4. Clustering: подбираются гипер параметры алгоритмов кластеризации (development set) и кластеризуются векторные представления сегментов (создаются словари uri2ann_hyp с предсказанной разметкой).
 5. Perfomance metrics: подсчитываются значения метрик DER и JER.
 
-Доступ к папке `diarization`: [гугл-диск]([url](https://drive.google.com/drive/folders/1XwTrRk3Xiwn1LMaR9-HpL57ryzr19vs8?usp=sharing)).
+Доступ к папке `diarization`: [гугл-диск](https://drive.google.com/drive/folders/1XwTrRk3Xiwn1LMaR9-HpL57ryzr19vs8?usp=sharing).
